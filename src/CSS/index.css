@@ -51,6 +51,32 @@ li a:hover {
     margin: 20px 20px ;
 }
 .paragrafo{
-    padding: 20px 0 10px 0;
+    padding: 20px 0 10px 10px;
     font-size: 17px;
+}
+
+.listas-aleatorias{
+    clear: left;
+}
+
+.titulo-caminho{
+    margin: 270px 400px 0 0px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.gps{
+    float: right;
+    margin: 0px 20px 0 10px;
+}
+
+.subtitulo{
+    font-size: 22px;
+    padding: 20px 0 10px 10px;
+}
+
+.titulo-sobre{
+    font-size: 30px;
+    text-align: center;
+    margin: 15px 0 0 0;
 }
