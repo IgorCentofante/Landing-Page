@@ -38,3 +38,27 @@ li a:hover {
     width: 90px;
     text-align: center;
 }
+
+/*conteúdo*/
+
+.titulo-principal{
+    padding-top: 95px;
+    padding-bottom: 40px;
+    font-size: 30px;
+    text-align: center;
+    height: 0px;
+}
+
+.mapa{
+    width: 40%;
+    float: left;
+    margin: 20px 20px ;
+}
+.paragrafo{
+    padding: 20px 0 10px 0;
+    font-size: 17px;
+}
+
+.listas-aleatorias{
+    clear: left;
+}
