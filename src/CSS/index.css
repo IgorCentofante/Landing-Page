@@ -79,4 +79,14 @@ li a:hover {
     font-size: 30px;
     text-align: center;
     margin: 15px 0 0 0;
+} 
+
+.paragrafo-sobre {
+    font-size: 25px;
+    text-align: center;
+}
+
+.expointer{
+    font-weight: bold;
+        
 }
