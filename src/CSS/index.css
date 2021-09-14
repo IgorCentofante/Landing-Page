@@ -44,20 +44,67 @@ li a:hover {
 }
 
 .titulo-principal{
-    padding-top: 95px;
-    padding-bottom: 40px;
-    font-size: 30px;
+    padding-top: 115px;
+    padding-bottom: 50px;
+    font-size: 35px;
     text-align: center;
     height: 0px;
 }
 
 .mapa{
-    width: 40%;
-    float: left;
-    margin: 20px 20px ;
+    width: 66%;
+    height: 400px;
+    margin: 40px 200px 0px 250px ;
 }
 
 .paragrafo{
-    padding: 20px 0 10px 0;
-    font-size: 17px;
+    padding: 15px 0 5px 10px;
+    font-size: 25px;
+}
+
+.listas-aleatorias{
+    clear: left;
+}
+
+.titulo-caminho{
+    margin: 50px 70px 40px 0px;
+    text-align: center;
+    font-size: 35px;
+}
+
+.gps{
+    margin: 0 100px 0 100px;
+}
+
+.subtitulo{
+    font-size: 30px;
+    padding: 20px 0 5px 10px;
+}
+
+.titulo-sobre{
+    font-size: 35px;
+    text-align: center;
+    margin: 15px 0 0 0;
+} 
+
+.paragrafo-sobre {
+    font-size: 25px;
+    padding: 20px 0 10px 10px;
+}
+
+.expointer{
+    font-weight: bold;
+        
+}
+
+.cavalo{
+    width: 40%;
+    display: inline-block;
+    margin: 20px 0 20px 120px;
+}
+
+.ovelhas{
+    width: 40%;
+    display: inline-block;
+     margin: 20px 60px 20px 0px;
 }
