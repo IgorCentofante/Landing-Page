@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+.caixa-contato{
+    background: #31aa39;
+    text-align: center;
+    width: 1000px;
+    height: 800px;
+    border: solid #000000;
+    border-radius: 10px;
+    margin: 0 auto 20px auto;
+}

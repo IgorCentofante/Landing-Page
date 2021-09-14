@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+}
+
+.caixa-ingressos{
+    background: #31aa39;;
+    text-align: center;
+    width: 700px;
+    height:300px;
+    border: solid #000000;
+    border-radius: 10px;
+    margin: 0 auto 20px auto;
+}
+
+.texto-ingressos{
+    color: #ffffff;
+    padding: 50px;
+}
+
+form{
+    text-align: center;
+    margin: 25px auto 25px auto;
+}
+
+form a{
+    text-decoration: none;
+}
+
+.ingressos-botão{
+    display: inline;
+    font-size: 40px;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
+    background: #1b5e2b;
+    border: solid #000000;
+    border-radius: 20px;
+    margin: 0 auto 20px;
+}
+
+.ingressos-botão:hover{
+    animation: balanço 0.7s alternate;
+    cursor: pointer;
+}
+
+@keyframes balanço{
+    0%{
+        transform: translateX(0%);
+    }
+    20%{
+        transform: translateX(-2%);
+    }
+    40%{
+        transform: translateX(2%);
+    }
+    60%{
+        transform: translateX(-2%);
+    }
+    80%{
+        transform: translateX(2%);
+    }
+    100%{
+        transform: translateX(0%);
+    }
+}

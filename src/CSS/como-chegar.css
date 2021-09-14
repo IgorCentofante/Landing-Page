@@ -1,0 +1,22 @@
+.caixa-como-chegar{
+    background: #31aa39;;
+    text-align: center;
+    border: solid #000000;
+    border-radius: 10px;
+    margin: 25px auto 25px auto;
+}
+
+.como-chegar{
+    margin: 25px auto 25px auto;
+}
+
+.titulo-caminho{
+    font-size: 35px;
+    color: #ffffff;
+    margin: 25px auto 25px auto;
+    text-align: center;
+}
+
+.gps{
+    margin: 25px 100px 25px 100px;
+}

@@ -1,0 +1,52 @@
+.navbar{
+    position: fixed;
+    background: #084e18 ;
+    width: 100%;
+	padding: 20px 0;
+    text-align: center;
+    margin: 0 auto auto auto;
+}
+
+nav li{
+	display: inline;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #ffffff;
+    margin: 0 0 0 70px;
+}
+
+li a:hover{
+    display: inline;
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline;
+    transition: 0.5s;
+}
+
+.rodapé{
+	background: #084e18;
+    color: #ffffff;
+	padding: 40px 0;
+    text-align: center;
+    margin: auto auto auto auto;
+}
+
+.logo-imed{ 
+    margin: 0 25px auto auto;
+    width: 160px;
+    height: 50px;
+}
+
+.logo-expointer{ 
+    text-align: center;
+    margin: 0 auto auto auto;
+    width: 160px;
+    height: 68px;
+}
+
+.logo-squad{
+    margin: 20px auto auto 25px;
+    width: 80px;
+    height: 80px;
+}
