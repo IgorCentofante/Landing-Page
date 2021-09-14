@@ -1,3 +1,12 @@
+.ScroolBar::-webkit-scrollbar {
+    width: 15px;
+    border: 1px solid rgb(0, 5, 0)
+}
+.ScroolBar::-webkit-scrollbar-thumb {
+    width: 12px;
+    border: 1px solid rgb(200,200,200)
+}
+
 header {
     background:  #1daa27;
 }
@@ -8,7 +17,8 @@ header {
     width: 100%;
     height: 77px;
     z-index: 1;
-    top: 0;
+    top: 5px;
+    right:5px;
 }
 
 nav li {
@@ -17,10 +27,6 @@ nav li {
     font-size: 20px;
     color: #ffffff;
     margin: 0 0 0 30px;
-}
-
-.navbar-caixa {
-    text-align: center;
 }
 
 li a:hover {
@@ -50,6 +56,7 @@ li a:hover {
     float: left;
     margin: 20px 20px ;
 }
+
 .paragrafo{
     padding: 20px 0 10px 0;
     font-size: 17px;
