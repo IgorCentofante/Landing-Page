@@ -1,6 +1,6 @@
 .navbar{
     position: fixed;
-    background: #084e18 ;
+    background: rgba(11, 59, 15, 0.801) ;
     width: 100%;
 	padding: 20px 0;
     text-align: center;
@@ -18,10 +18,13 @@ nav li{
 li a:hover{
     display: inline;
     cursor: pointer;
-    font-size: 25px;
     font-weight: bold;
     text-decoration: underline;
     transition: 0.5s;
+}
+
+body {
+    background-color: rgb(202, 202, 202);
 }
 
 .rodapé{
