@@ -37,6 +37,7 @@ body {
 
 .logo-imed{ 
     margin: 0 25px auto auto;
+    padding: right 50px;
     width: 160px;
     height: 50px;
 }
@@ -50,6 +51,7 @@ body {
 
 .logo-squad{
     margin: 20px auto auto 25px;
-    width: 80px;
-    height: 80px;
+    padding-top: 7px;
+    width: 130px;
+    height: 132px;
 }
