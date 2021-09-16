@@ -1,7 +1,6 @@
 * {
     box-sizing: border-box;
 }
-
 .caixa-contato{
     background-color: #31aa39;
     border: solid #000000;
@@ -10,8 +9,7 @@
     border-radius: 30px;
     
 }
-
-.Contato{
+.contato{
     font-size: 25px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #ffffff;

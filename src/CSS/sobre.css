@@ -1,7 +1,6 @@
 * {
     box-sizing: border-box;
 }
-
 .caixa-sobre{
     background: #31aa39;;
     text-align: center;
@@ -11,7 +10,6 @@
     border-radius: 30px;
     margin: 0px auto 20px auto;
 }
-
 .titulo-principal{
     font-size: 35px;
     color: #ffffff;
@@ -20,25 +18,15 @@
     text-align: center;
     height: 0px;
 }
-
 .paragrafo-sobre{
     font-size: 25px;    
     color: #ffffff;
     padding: 20px 0 10px 10px;
 }
-
-.cavalo{
+.cavalo, .ovelhas{
     width: 40%;
     display: inline-block;
-    margin: 20px 25px 15px 120px;
-    border-radius: 10px;
-    border: solid #000000;
-}
-
-.ovelhas{
-    width: 40%;
-    display: inline-block;
-    margin: 20px 25px 15px 0px;
+    margin: 20px 25px 15px 25px;
     border-radius: 10px;
     border: solid #000000;
 }

@@ -1,7 +1,6 @@
 * {
     box-sizing: border-box;
 }
-
 .caixa-squad{
     background: #31aa39;
     text-align: center;
@@ -11,7 +10,6 @@
     border-radius: 30px;
     margin: 0 auto 20px auto;
 }
-
 .titulo-apresentação{
     font-size: 45px;
     color: #ffffff;
@@ -19,15 +17,13 @@
     height: 0px;
     margin: 25px auto 70px auto;
 }
-
 .video-apresentação{
     text-align: center;
     width: 700px;
     height: 450px;
     margin: 25px 100px 35px 100px;
 }
-
-.Bernardo{
+.Bernardo, .Ígor, .Kauã, .Liu{
     display:inline-block;
     width: 160px;
     height: 160px;
@@ -35,65 +31,8 @@
     border: solid #000000;
     margin: 0px 20px 0px 20px;
 }
-
-.Bernardo:hover{
+.Bernardo:hover, .Ígor:hover, .Kauã:hover, .Liu:hover{
     border: solid #ffffff;
     transition: 0.5s;
-}
-
-.Ígor{
-    text-align: center;
-    display:inline-block;
-    width: 160px;
-    height: 160px;
-    border-radius: 90px;
-    border: solid #000000;
-    margin: 0px 20px 0px 20px;
-}
-
-.Ígor:hover{
-    border: solid #ffffff;
-    transition: 0.5s;
-}
-
-.Kauã{
-    display:inline-block;
-    width: 160px;
-    height: 160px;
-    border-radius: 90px;
-    border: solid #000000;
-    margin: 0px 20pxx 0px 20px;
-}
-
-.Kauã:hover{
-    border: solid #ffffff;
-    transition: 0.5s;
-}
-
-.Liu{
-    display:inline-block;
-    width: 160px;
-    height: 160px;
-    border-radius: 90px;
-    border: solid #000000;
-    margin: 0px 20px 0px 20px;
-}
-
-.Liu:hover{
-    border: solid #ffffff;
-    transition: 0.5s;
-}
-
-.Victor{
-    display:inline-block;
-    width: 160px;
-    height: 160px;
-    border-radius: 90px;
-    border: solid #000000;
-    margin: 0px 20px 0px 20px;
-}
-
-.Victor:hover{
-    border: solid #ffffff;
-    transition: 0.5s;
+    cursor: pointer;
 }
