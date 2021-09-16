@@ -7,6 +7,12 @@
     text-align: center;
     margin: 0 auto auto auto;
 }
+a {
+    font-size: bold;
+    color: white;
+    transition: 1s;
+    text-decoration: none;
+}
 nav li{
     text-decoration: none;
 	display: inline;
