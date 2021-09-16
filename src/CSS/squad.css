@@ -36,3 +36,13 @@
     transition: 0.5s;
     cursor: pointer;
 }
+
+
+ul li {
+    display: inline;
+    font-size: 25px;
+    color: #ffffff;
+    padding: 0px 40px 0px 19px;
+      
+}
+
